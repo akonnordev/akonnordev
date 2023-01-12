@@ -1,8 +1,4 @@
-- 👋 Hi, Life has so much to give
-- 👀 See everything, say nothing.
-- 🌱 Extend knowledge to next generation.
+Hi there 👋
+I'm Akonnor Owusu Larbi, a web developer from Accra, Ghana. I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I work mainly with web technologies such as JavaScript,CSS and HTML. My target is to learn  Node.js, React, SCSS and UI/UX. Adding Ruby on Rails knowledge is a plus for me.
 
-<!---
-akonnordev/akonnordev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Drop me a mail akonnor93@gmail.com
