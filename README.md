@@ -1,6 +1,7 @@
-### Hello!  👋
+### Hello!  👋 ## My name is Akonnor Owusu Larbi, and I'm Web Developer from ![Ghana Flag](https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png)
 
-## My name is Akonnor Owusu Larbi
+
+
 I am a certified AWS Cloud Practitioner with a passion for web development. Since 2018, I have been creating websites using WordPress, catering to a wide range of clients from the USA, UK, Ireland, Canada, Singapore, Kenya, and Ghana. My expertise spans all types of websites, including e-commerce platforms.
 
 I specialize in converting ideas into fully functional web applications, helping businesses and organizations establish a strong online presence. My services include developing professional business emails with advanced spam detection and security measures to block malicious IPs and contacts.
