@@ -17,8 +17,8 @@ With over 40 websites developed across various sectors, I have the experience an
 - [Leaders Un](https://www.leadersun.org)
 - [Pentax Global](https://www.pentaxglobal.com)
 - [Brandel Marine](https://www.brandelmarine.com)
-- [Rose City](https://www.rosecityps.com) [
-- MCA Ghana](https://www.mcaghana.com)
+- [Rose City](https://www.rosecityps.com)
+- [MCA Ghana](https://www.mcaghana.com)
 - [Jobadee](https://www.jobadee.com)
 - [Apostle Joseph Hellon](https://www.apostlejosephhellon.com)
 - [Winning Connect](https://www.winningconnect.com)
