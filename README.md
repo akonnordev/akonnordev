@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akonnor Owusu Larbi</h1>
-<h3 align="center">A passionate web developer from Ghana</h3>
+<h3 align="center"> A certified AWS Cloud Practitioner and passionate Web Developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akonnordev&label=Profile%20views&color=0e75b6&style=flat" alt="akonnordev" /> </p>
 
@@ -42,27 +42,15 @@
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 
 
 
-### Hello!  👋 ## My name is Akonnor Owusu Larbi, and I'm Web Developer from ![Ghana Flag](https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png)
 
 
+### My Story and Projects Completed
 
-I am a certified AWS Cloud Practitioner with a passion for web development. Since 2018, I have been creating websites using WordPress, catering to a wide range of clients from the USA, UK, Ireland, Canada, Singapore, Kenya, and Ghana. My expertise spans all types of websites, including e-commerce platforms.
+Since 2018, I have been creating websites using WordPress, catering to a wide range of clients from the USA, UK, Ireland, Canada, Singapore, Kenya, and Ghana. My expertise spans all types of websites, including e-commerce platforms.
 
 I specialize in converting ideas into fully functional web applications, helping businesses and organizations establish a strong online presence. My services include developing professional business emails with advanced spam detection and security measures to block malicious IPs and contacts.
 
