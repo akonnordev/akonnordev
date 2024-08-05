@@ -54,7 +54,10 @@ If you're looking for a dedicated developer to turn your web ideas into reality,
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-003399?style=for-the-badge&logo=paystack&logoColor=white)
  ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Zeno.fm](https://img.shields.io/badge/Zeno.fm-333333?style=for-the-badge&logo=zeno.fm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Zeno.fm](https://img.shields.io/badge/Zeno.fm-333333?style=for-the-badge&logo=zeno.fm&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-ff6600?style=for-the-badge&logo=hostinger&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-F56300?style=for-the-badge&logo=godaddy&logoColor=white) ![Bluehost](https://img.shields.io/badge/Bluehost-003d6b?style=for-the-badge&logo=bluehost&logoColor=white)
+
+
 
 
 
