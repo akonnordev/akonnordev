@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akonnor Owusu Larbi</h1>
-<h3 align="center"> A certified AWS Cloud Practitioner and passionate Web Developer from Ghana</h3>
+<h3 align="center"> A certified AWS Cloud Practitioner and a passionate Web Developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akonnordev&label=Profile%20views&color=0e75b6&style=flat" alt="akonnordev" /> </p>
 
@@ -15,20 +15,22 @@
 
 - 📫 How to reach me **owusu@hteweb.com**
 
-- <div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akonnordev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akonnordev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-- ### Technical stack
+### Technical stack
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-003399?style=for-the-badge&logo=paystack&logoColor=white)
  ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Professional Email](https://img.shields.io/badge/Professional_Email-0073e6?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Zeno.fm](https://img.shields.io/badge/Zeno.fm-333333?style=for-the-badge&logo=zeno.fm&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-ff6600?style=for-the-badge&logo=hostinger&logoColor=white) ![Bluehost](https://img.shields.io/badge/Bluehost-003d6b?style=for-the-badge&logo=bluehost&logoColor=white) ![GoDaddy](https://img.shields.io/badge/GoDaddy-F56300?style=for-the-badge&logo=godaddy&logoColor=white) ![Google Business Email](https://img.shields.io/badge/Google_Business_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)
 ![DonorBox](https://img.shields.io/badge/DonorBox-009EDB?style=for-the-badge&logo=donorbox&logoColor=white) ![Website Migration](https://img.shields.io/badge/Website_Migration-4CAF50?style=for-the-badge&logo=cloud&logoColor=white) ![Professional Email Migration](https://img.shields.io/badge/Professional_Email_Migration-0073e6?style=for-the-badge&logo=gmail&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-FB8C00?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Business](https://img.shields.io/badge/Google_Business-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Search Engine Optimization](https://img.shields.io/badge/Search_Engine_Optimization-0078D4?style=for-the-badge&logo=google&logoColor=white) ![Google AdSense](https://img.shields.io/badge/Google_AdSense-F7F7F7?style=for-the-badge&logo=adsense&logoColor=blue) ![SPF](https://img.shields.io/badge/SPF-FF5722?style=for-the-badge&logo=cloudflare&logoColor=white) ![DKIM](https://img.shields.io/badge/DKIM-FF5722?style=for-the-badge&logo=cloudflare&logoColor=white) ![TXT Records](https://img.shields.io/badge/TXT_Records-0061F2?style=for-the-badge&logo=cloudflare&logoColor=white) ![DNS Records](https://img.shields.io/badge/DNS_Records-0061F2?style=for-the-badge&logo=cloudflare&logoColor=white) ![ZOHO Business Email](https://img.shields.io/badge/ZOHO_Business_Email-005A9C?style=for-the-badge&logo=zoho&logoColor=white)
+
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -37,8 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 </div>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akonnordev&show_icons=true&locale=en&layout=compact" alt="akonnordev" /></p>
