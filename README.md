@@ -1,10 +1,7 @@
 ### Hello!  👋
 
-## My Akonnor Owusu Larbi
-
-## Introduction
-
-Hello! I am a certified AWS Cloud Practitioner with a passion for web development. Since 2018, I have been creating websites using WordPress, catering to a wide range of clients from the USA, UK, Ireland, Canada, Singapore, Kenya, and Ghana. My expertise spans all types of websites, including e-commerce platforms.
+## My name is Akonnor Owusu Larbi
+I am a certified AWS Cloud Practitioner with a passion for web development. Since 2018, I have been creating websites using WordPress, catering to a wide range of clients from the USA, UK, Ireland, Canada, Singapore, Kenya, and Ghana. My expertise spans all types of websites, including e-commerce platforms.
 
 I specialize in converting ideas into fully functional web applications, helping businesses and organizations establish a strong online presence. My services include developing professional business emails with advanced spam detection and security measures to block malicious IPs and contacts.
 
@@ -12,9 +9,9 @@ I am currently expanding my skill set by learning React.js, Node.js, Express.js,
 
 With over 40 websites developed across various sectors, I have the experience and knowledge to bring your web projects to life. Some of my notable projects include:
 
-- [Ghamfin.org](https://www.ghamfin.org)
-- [Jesus Centered Church](https://www.jesuscenteredchurch.com)
-- [Atlantic Frozen Foods](https://www.atlanticfrozenfoodsca.com)
+- [Ghamfin.org](https://www.ghamfin.org)  - [Jesus Centered Church](https://www.jesuscenteredchurch.com) - [Atlantic Frozen Foods](https://www.atlanticfrozenfoodsca.com)
+
+
 - [Dolly's Daycare](https://www.dollysdaycare.com)
 - [TIP Africa](https://www.tipafrica.org)
 - [Leaders Un](https://www.leadersun.org)
@@ -54,7 +51,8 @@ If you're looking for a dedicated developer to turn your web ideas into reality,
 
 
 ### Technical stack
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next--JS-1F262C?style=for-the-badge&logo=next.js&logoColor=white)
