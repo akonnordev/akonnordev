@@ -14,6 +14,8 @@
 - 💬 Ask me about **WordPress**
 
 - 📫 How to reach me **owusu@hteweb.com**
+- 🌱 I’m  have plans to continue with AWS Cloud Certifications and Knowledge ...
+- ⚡ I am a conventional and enterprising guy.
 
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akonnordev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -42,16 +44,14 @@
  
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akonnordev&show_icons=true&locale=en" alt="akonnordev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akonnordev&" alt="akonnordev" /></p>
 
 
 ### My Story and Projects Completed
 
-Since 2018, I have been creating websites using WordPress, catering to a wide range of clients from the USA, UK, Ireland, Canada, Singapore, Kenya, and Ghana. My expertise spans all types of websites, including e-commerce platforms.
+Since 2018, I have been creating websites using WordPress, catering to a wide range of clients from the USA, UK, Ireland, Canada, Singapore, Kenya, and Ghana. My expertise spans all types of websites, including e-commerce and donation platforms.
 
-I specialize in converting ideas into fully functional web applications, helping businesses and organizations establish a strong online presence. My services include developing professional business emails with advanced spam detection and security measures to block malicious IPs and contacts.
+I specialize in converting ideas into fully functional web applications, helping businesses and organizations establish a strong online presence. My services also include developing professional business emails with advanced spam detection and security measures to block malicious IPs and contacts.
 
 I am currently expanding my skill set by learning React.js, Node.js, Express.js, and PostgreSQL to provide even more robust and dynamic web solutions.
 
@@ -97,15 +97,6 @@ If you're looking for a dedicated developer to turn your web ideas into reality,
 
 📚 I consider myself a perpetual learner, constantly seeking new knowledge and skills. My passion lies in transforming exceptional designs into meaningful interfaces that are both simple and user-friendly.
 
-
-
-
-- 🔭 I’m currently working on ... a GIZ and Ghamfin Project
-- 🌱 I’m  have plans to continue with AWS Cloud Certifications and Knowledge ...
-- 🤔 I’m looking for help with ... Reactjs, Nodejs.
-- 💬 Ask me about ... Anything related to WordPress and Professional Emails.
-- 📫 How to reach me: ...  [Portfolio Website](https://hteweb.com/)
-- ⚡ I am a conventional and enterprising guy.
 
 
 
