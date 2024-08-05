@@ -10,5 +10,4 @@ Hello! I am a certified AWS Cloud Practitioner with a passion for web developmen
 - [TIP Africa](https://www.tipafrica.org)
 - [Leaders Un](https://www.leadersun.org)
 
-![Light mode](https://github.com/github-light.png#gh-light-mode-only)
 ![Dark mode](https://github.com/github-dark.png#gh-dark-mode-only)
