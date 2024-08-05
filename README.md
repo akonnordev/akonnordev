@@ -9,19 +9,13 @@ I am currently expanding my skill set by learning React.js, Node.js, Express.js,
 
 With over 40 websites developed across various sectors, I have the experience and knowledge to bring your web projects to life. Some of my notable projects include:
 
-- [Ghamfin.org](https://www.ghamfin.org)  - [Jesus Centered Church](https://www.jesuscenteredchurch.com) - [Atlantic Frozen Foods](https://www.atlanticfrozenfoodsca.com)
-
-
-- [Dolly's Daycare](https://www.dollysdaycare.com)
-- [TIP Africa](https://www.tipafrica.org)
-- [Leaders Un](https://www.leadersun.org)
-- [Pentax Global](https://www.pentaxglobal.com)
-- [Brandel Marine](https://www.brandelmarine.com)
-- [Rose City](https://www.rosecityps.com)
-- [MCA Ghana](https://www.mcaghana.com)
-- [Jobadee](https://www.jobadee.com)
-- [Apostle Joseph Hellon](https://www.apostlejosephhellon.com)
-- [Winning Connect](https://www.winningconnect.com)
+- [Ghamfin.org](https://www.ghamfin.org)  [Jesus Centered Church](https://www.jesuscenteredchurch.com)  [Atlantic Frozen Foods](https://www.atlanticfrozenfoodsca.com) [Dolly's Daycare](https://www.dollysdaycare.com) [TIP Africa](https://www.tipafrica.org) [Leaders Un](https://www.leadersun.org) [Pentax Global](https://www.pentaxglobal.com)
+[Brandel Marine](https://www.brandelmarine.com) [Rose City](https://www.rosecityps.com) [MCA Ghana](https://www.mcaghana.com) [Jobadee](https://www.jobadee.com) [Apostle Joseph Hellon](https://www.apostlejosephhellon.com)  [Winning Connect](https://www.winningconnect.com)
+- 
+- 
+- 
+- 
+- 
 - [AEPPEC](https://www.aeppec.org)
 - [Swanky GH](https://www.swankygh.com)
 - [N Wellness World](https://www.nwellnessworld.com)
