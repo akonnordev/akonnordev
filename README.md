@@ -55,7 +55,18 @@ If you're looking for a dedicated developer to turn your web ideas into reality,
 ![Paystack](https://img.shields.io/badge/Paystack-003399?style=for-the-badge&logo=paystack&logoColor=white)
  ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Professional Email](https://img.shields.io/badge/Professional_Email-0073e6?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Zeno.fm](https://img.shields.io/badge/Zeno.fm-333333?style=for-the-badge&logo=zeno.fm&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-ff6600?style=for-the-badge&logo=hostinger&logoColor=white) ![Bluehost](https://img.shields.io/badge/Bluehost-003d6b?style=for-the-badge&logo=bluehost&logoColor=white) ![GoDaddy](https://img.shields.io/badge/GoDaddy-F56300?style=for-the-badge&logo=godaddy&logoColor=white) ![Google Business Email](https://img.shields.io/badge/Google_Business_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)
-![DonorBox](https://img.shields.io/badge/DonorBox-009EDB?style=for-the-badge&logo=donorbox&logoColor=white) ![Website Migration](https://img.shields.io/badge/Website_Migration-4CAF50?style=for-the-badge&logo=cloud&logoColor=white) ![Professional Email](https://img.shields.io/badge/Professional_Email-0073e6?style=for-the-badge&logo=gmail&logoColor=white)
+![DonorBox](https://img.shields.io/badge/DonorBox-009EDB?style=for-the-badge&logo=donorbox&logoColor=white) ![Website Migration](https://img.shields.io/badge/Website_Migration-4CAF50?style=for-the-badge&logo=cloud&logoColor=white) ![Professional Email Migration](https://img.shields.io/badge/Professional_Email_Migration-0073e6?style=for-the-badge&logo=gmail&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-FB8C00?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Business](https://img.shields.io/badge/Google_Business-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Search Engine Optimization](https://img.shields.io/badge/Search_Engine_Optimization-0078D4?style=for-the-badge&logo=google&logoColor=white) ![Google AdSense](https://img.shields.io/badge/Google_AdSense-F7F7F7?style=for-the-badge&logo=adsense&logoColor=blue) ![SPF](https://img.shields.io/badge/SPF-FF5722?style=for-the-badge&logo=cloudflare&logoColor=white) ![DKIM](https://img.shields.io/badge/DKIM-FF5722?style=for-the-badge&logo=cloudflare&logoColor=white) ![TXT Records](https://img.shields.io/badge/TXT_Records-0061F2?style=for-the-badge&logo=cloudflare&logoColor=white) ![DNS Records](https://img.shields.io/badge/DNS_Records-0061F2?style=for-the-badge&logo=cloudflare&logoColor=white) ![ZOHO Business Email](https://img.shields.io/badge/ZOHO_Business_Email-005A9C?style=for-the-badge&logo=zoho&logoColor=white)
+
+
+
+
+
+
+
+
+
+
 
 
 
