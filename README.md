@@ -9,13 +9,19 @@ I am currently expanding my skill set by learning React.js, Node.js, Express.js,
 
 With over 40 websites developed across various sectors, I have the experience and knowledge to bring your web projects to life. Some of my notable projects include:
 
-- [Ghamfin.org](https://www.ghamfin.org)  [Jesus Centered Church](https://www.jesuscenteredchurch.com)  [Atlantic Frozen Foods](https://www.atlanticfrozenfoodsca.com) [Dolly's Daycare](https://www.dollysdaycare.com) [TIP Africa](https://www.tipafrica.org) [Leaders Un](https://www.leadersun.org) [Pentax Global](https://www.pentaxglobal.com)
-[Brandel Marine](https://www.brandelmarine.com) [Rose City](https://www.rosecityps.com) [MCA Ghana](https://www.mcaghana.com) [Jobadee](https://www.jobadee.com) [Apostle Joseph Hellon](https://www.apostlejosephhellon.com)  [Winning Connect](https://www.winningconnect.com)
-- 
-- 
-- 
-- 
-- 
+- [Ghamfin.org](https://www.ghamfin.org)
+- [Jesus Centered Church](https://www.jesuscenteredchurch.com)
+- [Atlantic Frozen Foods](https://www.atlanticfrozenfoodsca.com)
+- [Dolly's Daycare](https://www.dollysdaycare.com)
+- [TIP Africa](https://www.tipafrica.org)
+- [Leaders Un](https://www.leadersun.org)
+- [Pentax Global](https://www.pentaxglobal.com)
+- [Brandel Marine](https://www.brandelmarine.com)
+- [Rose City](https://www.rosecityps.com) [
+- MCA Ghana](https://www.mcaghana.com)
+- [Jobadee](https://www.jobadee.com)
+- [Apostle Joseph Hellon](https://www.apostlejosephhellon.com)
+- [Winning Connect](https://www.winningconnect.com)
 - [AEPPEC](https://www.aeppec.org)
 - [Swanky GH](https://www.swankygh.com)
 - [N Wellness World](https://www.nwellnessworld.com)
@@ -45,16 +51,7 @@ If you're looking for a dedicated developer to turn your web ideas into reality,
 
 
 ### Technical stack
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next--JS-1F262C?style=for-the-badge&logo=next.js&logoColor=white)
-
-![](https://img.shields.io/badge/Chakra-UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=319795) ![](https://img.shields.io/badge/Tailwind_CSS-4EADC9?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-![](https://img.shields.io/badge/Firebase-F7CC50?style=for-the-badge&logo=firebase&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - 🔭 I’m currently working on ... a GIZ and Ghamfin Project
 - 🌱 I’m  have plans to continue with AWS Cloud Certifications and Knowledge ...
